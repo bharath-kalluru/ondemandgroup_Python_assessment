@@ -3,7 +3,7 @@
 A Python script that automatically discovers, downloads, and processes all hospital-related datasets from the CMS Provider Data API.
 The script is designed to run daily, perform incremental downloads, convert all CSV headers to snake_case, and save the processed files locally in parallel.
 
-⸻
+---
 
 ## Features
 
@@ -15,6 +15,7 @@ https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items
 
 Filters datasets whose metadata contains the theme “Hospitals” (checking theme, tags, title, description).
 
+---
 
 ### 2. Downloads all CSV distributions
 
