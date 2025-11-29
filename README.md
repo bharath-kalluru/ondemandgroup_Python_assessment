@@ -100,12 +100,15 @@ All downloaded and processed CSVs are inside /data/<dataset_id>/.
 1. Clone or download this project
 
 git clone <your-repo-url>
+
 cd <project-folder>
 
 2. Create a virtual environment
 
 python3 -m venv ondemangrp_venv
+
 source ondemangrp_venv/bin/activate     # macOS/Linux
+
 ondemangrp_venv\Scripts\activate        # Windows
 
 3. Install dependencies
