@@ -133,9 +133,9 @@ ondemangrp_venv\Scripts\activate        # Windows
 ```
 
 #### 3. Install dependencies
-
+```
 pip3 install -r requirements.txt
-
+```
 
 ---
 
@@ -229,9 +229,9 @@ All downloaded CSV headers have been automatically processed by pandas and overw
 ## Sample Output Verification
 
 ### Use:
-
+```
 head -n 1 data/**/*.csv
-
+```
 ### Example output:
 
 facility_id,facility_name,address,city_town,state,zip_code,...
