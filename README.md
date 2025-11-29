@@ -7,7 +7,7 @@ The script is designed to run daily, perform incremental downloads, convert all 
 
 ## Features
 
-1. Automatically discovers hospital datasets
+### 1. Automatically discovers hospital datasets
 
 Fetches dataset metadata from:
 
@@ -15,28 +15,26 @@ https://data.cms.gov/provider-data/api/1/metastore/schemas/dataset/items
 
 Filters datasets whose metadata contains the theme “Hospitals” (checking theme, tags, title, description).
 
-⸻
 
-2. Downloads all CSV distributions
+### 2. Downloads all CSV distributions
 
 For each matching dataset, the script extracts all linked .csv files and downloads them.
 
-⸻
 
-3. Parallel, asynchronous downloading
+### 3. Parallel, asynchronous downloading
 
 Uses aiohttp, asyncio, and a concurrency semaphore to download many files at once for high performance.
 
 
-4. Converts all CSV headers to snake_case
+### 4. Converts all CSV headers to snake_case
 
-Example conversion:
+#### Example conversion:
 
 Original Header	Converted
 
 Patients Rating of the Facility ==>	patients_rating_of_the_facility
 
-The transformation:
+#### The transformation:
 	•	lowercase
 	
 	•	spaces → _
