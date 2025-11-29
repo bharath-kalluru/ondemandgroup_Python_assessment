@@ -27,23 +27,26 @@ For each matching dataset, the script extracts all linked .csv files and downloa
 
 Uses aiohttp, asyncio, and a concurrency semaphore to download many files at once for high performance.
 
-⸻
 
 4. Converts all CSV headers to snake_case
 
 Example conversion:
 
 Original Header	Converted
+
 Patients Rating of the Facility ==>	patients_rating_of_the_facility
 
 The transformation:
 	•	lowercase
+	
 	•	spaces → _
+	
 	•	remove punctuation
+	
 	•	split camelCase → snake_case
+	
 	•	collapse repeated underscores
 
-⸻
 
 5. Incremental daily updates
 
