@@ -114,9 +114,9 @@ All downloaded and processed CSVs are inside /data/<dataset_id>/.
 #### 1. Clone or download this project
 
 ```
-git clone \<your-repo-url\>
+git clone <your-repo-url>
 
-cd \<project-folder\>
+cd <project-folder>
 
 ```
 
@@ -137,41 +137,45 @@ ondemangrp_venv\Scripts\activate        # Windows
 pip3 install -r requirements.txt
 
 
-⸻
+---
 
 ## How to Run the Script
 
-Run directly:
+### Run directly:
 
 python cms_hospitals_downloader.py
 
 After completion, you will see:
 	•	metadata.json updated
+	
 	•	Processed CSVs in the data/ folder
+	
 	•	Headers fully converted to snake_case
 
-⸻
+---
 
 ## Running Daily (Scheduled Execution)
 
 Script is designed to be run daily using a scheduler:
 
-🟦 macOS / Linux (cron)
+### macOS / Linux (cron)
 
 0 2 * * * /usr/bin/python3 /path/to/cms_hospitals_downloader.py
 
-🟪 Windows (Task Scheduler)
+### Windows (Task Scheduler)
 	•	Trigger: Daily → 2:00 AM
+	
 	•	Action: python cms_hospitals_downloader.py
 
 The script is idempotent, meaning it only downloads updated files.
 
-⸻
+---
 
 ## How Metadata Tracking Works (metadata.json)
 
-Example entry:
+### Example entry:
 
+```
 {
   "HOSPITAL_GENERAL_INFORMATION::https://data.cms.gov/.../file.csv": {
     "url": "...",
@@ -183,23 +187,29 @@ Example entry:
     "cols": 41
   }
 }
-
-On each run, the script:
+```
+#### On each run, the script:
 	1.	Performs a HEAD request
+	
 	2.	Compares ETag / Last-Modified with saved values
+	
 	3.	Skips downloading if unchanged
 
 This ensures efficient daily operation.
 
-⸻
+---
 
 ## Snake Case Conversion
 
-The script uses this logic:
+#### The script uses this logic:
 	•	Remove punctuation
+	
 	•	Insert underscores between words
+	
 	•	Split camelCase
+	
 	•	Convert to lowercase
+	
 	•	Collapse multiple underscores
 
 ### Example:
@@ -214,7 +224,7 @@ patients_rating_of_the_facility_linear_mean_score
 
 All downloaded CSV headers have been automatically processed by pandas and overwritten in snake_case.
 
-⸻
+---
 
 ## Sample Output Verification
 
