@@ -79,7 +79,6 @@ This makes the script safe and efficient for daily scheduled runs.
 ### 6. Platform independent
 
 #### Runs on:
-
 	•	macOS
 	
 	•	Linux
