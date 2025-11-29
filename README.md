@@ -159,9 +159,9 @@ After completion, you will see:
 Script is designed to be run daily using a scheduler:
 
 ### macOS / Linux (cron)
-
+```
 0 2 * * * /usr/bin/python3 /path/to/cms_hospitals_downloader.py
-
+```
 ### Windows (Task Scheduler)
 	•	Trigger: Daily → 2:00 AM
 	
@@ -230,7 +230,7 @@ All downloaded CSV headers have been automatically processed by pandas and overw
 
 ### Use:
 ```
-head -n 1 data/**/*.csv
+head -n 1 data/*/*.csv
 ```
 ### Example output:
 
