@@ -230,7 +230,7 @@ All downloaded CSV headers have been automatically processed by pandas and overw
 
 ### Use:
 
-head -n 1 data/*/*.csv
+head -n 1 data/**/*.csv
 
 ### Example output:
 
