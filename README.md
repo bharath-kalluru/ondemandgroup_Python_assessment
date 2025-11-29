@@ -76,16 +76,19 @@ This makes the script safe and efficient for daily scheduled runs.
 
 ---
 
-6. Platform independent
+### 6. Platform independent
 
-Runs on:
+#### Runs on:
+
 	•	macOS
+	
 	•	Linux
+	
 	•	Windows
 
 Uses only pip-installable libraries.
 
-⸻
+---
 
 ## Project Structure
 
@@ -103,17 +106,16 @@ project_root/
 
 All downloaded and processed CSVs are inside /data/<dataset_id>/.
 
-⸻
 
 ## Installation
 
-1. Clone or download this project
+#### 1. Clone or download this project
 
 git clone <your-repo-url>
 
 cd <project-folder>
 
-2. Create a virtual environment
+#### 2. Create a virtual environment
 
 python3 -m venv ondemangrp_venv
 
@@ -121,7 +123,7 @@ source ondemangrp_venv/bin/activate     # macOS/Linux
 
 ondemangrp_venv\Scripts\activate        # Windows
 
-3. Install dependencies
+#### 3. Install dependencies
 
 pip3 install -r requirements.txt
 
