@@ -91,6 +91,7 @@ Uses only pip-installable libraries.
 
 ## Project Structure
 
+```
 project_root/
 │
 ├── cms_hospitals_downloader.py     # Main script
@@ -103,6 +104,8 @@ project_root/
      ├── <dataset_id>/              
      │      ├── <file>.csv
 
+```
+
 All downloaded and processed CSVs are inside /data/<dataset_id>/.
 
 
@@ -110,7 +113,7 @@ All downloaded and processed CSVs are inside /data/<dataset_id>/.
 
 #### 1. Clone or download this project
 
-git clone <your-repo-url>
+git clone \<your-repo-url\>
 
 cd <project-folder>
 
