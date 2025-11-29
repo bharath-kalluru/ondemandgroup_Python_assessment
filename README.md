@@ -3,7 +3,6 @@
 A Python script that automatically discovers, downloads, and processes all hospital-related datasets from the CMS Provider Data API.
 The script is designed to run daily, perform incremental downloads, convert all CSV headers to snake_case, and save the processed files locally in parallel.
 
----
 
 ## Features
 
@@ -21,11 +20,13 @@ Filters datasets whose metadata contains the theme “Hospitals” (checking the
 
 For each matching dataset, the script extracts all linked .csv files and downloads them.
 
+---
 
 ### 3. Parallel, asynchronous downloading
 
 Uses aiohttp, asyncio, and a concurrency semaphore to download many files at once for high performance.
 
+---
 
 ### 4. Converts all CSV headers to snake_case
 
@@ -46,27 +47,34 @@ Patients Rating of the Facility ==>	patients_rating_of_the_facility
 	
 	•	collapse repeated underscores
 
+---
 
-5. Incremental daily updates
+### 5. Incremental daily updates
 
 The script stores metadata in:
 
 metadata.json
 
-This includes:
+#### This includes:
 	•	URL
+	
 	•	filename
+	
 	•	last_modified header
+	
 	•	ETag
+	
 	•	row, column counts
+	
 	•	download timestamp
 
-Next day:
+#### Next day:
+
 The script checks remote ETag / Last-Modified and skips files that haven’t changed.
 
 This makes the script safe and efficient for daily scheduled runs.
 
-⸻
+---
 
 6. Platform independent
 
