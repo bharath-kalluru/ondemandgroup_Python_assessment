@@ -1,0 +1,677 @@
+{
+  "axe7-s95e::https://data.cms.gov/provider-data/sites/default/files/resources/d3aea2dfaeae85c44017441b184aeb6d_1760630709/ASC_State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d3aea2dfaeae85c44017441b184aeb6d_1760630709/ASC_State.csv",
+    "filename": "ASC_State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:20 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:30.770421Z",
+    "rows": 54,
+    "cols": 34
+  },
+  "tqkv-mgxq::https://data.cms.gov/provider-data/sites/default/files/resources/26896abd613a88df1d7d9637e9f85f19_1736791511/CJR_Quality_Reporting_January_2025_Production_File.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/26896abd613a88df1d7d9637e9f85f19_1736791511/CJR_Quality_Reporting_January_2025_Production_File.csv",
+    "filename": "CJR_Quality_Reporting_January_2025_Production_File.csv",
+    "last_modified": "Mon, 13 Jan 2025 18:10:31 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:30.780014Z",
+    "rows": 399,
+    "cols": 18
+  },
+  "48nr-hqxx::https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1760630706/ASCQR_OAS_CAHPS_BY_ASC.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8392b7d74209bb3dc54ff1b09635e733_1760630706/ASCQR_OAS_CAHPS_BY_ASC.csv",
+    "filename": "ASCQR_OAS_CAHPS_BY_ASC.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:19 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:30.821033Z",
+    "rows": 1406,
+    "cols": 30
+  },
+  "wue8-3vwe::https://data.cms.gov/provider-data/sites/default/files/resources/43dcc3212bfab34ac186ac2e19196b09_1760630707/ASC_National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43dcc3212bfab34ac186ac2e19196b09_1760630707/ASC_National.csv",
+    "filename": "ASC_National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:20 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:30.849894Z",
+    "rows": 1,
+    "cols": 37
+  },
+  "muwa-iene::https://data.cms.gov/provider-data/sites/default/files/resources/84bd78c1b4e386185bcef2af963d8cf9_1760630710/CMS_PSI_6_decimal_file.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/84bd78c1b4e386185bcef2af963d8cf9_1760630710/CMS_PSI_6_decimal_file.csv",
+    "filename": "CMS_PSI_6_decimal_file.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:22 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.313843Z",
+    "rows": 52349,
+    "cols": 13
+  },
+  "4jcv-atw7::https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1760630707/ASC_Facility.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/dd03994fc93e296bb0297f1cd43cc987_1760630707/ASC_Facility.csv",
+    "filename": "ASC_Facility.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:19 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.446704Z",
+    "rows": 5627,
+    "cols": 47
+  },
+  "tf3h-mrrs::https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1760630708/ASCQR_OAS_CAHPS_NATIONAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/65a38069cc48376e9f519a3609424537_1760630708/ASCQR_OAS_CAHPS_NATIONAL.csv",
+    "filename": "ASCQR_OAS_CAHPS_NATIONAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:20 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.451618Z",
+    "rows": 1,
+    "cols": 21
+  },
+  "x663-bwbj::https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1760630709/ASCQR_OAS_CAHPS_STATE.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f086b4b7fc9d628f08e70ade47dff3c5_1760630709/ASCQR_OAS_CAHPS_STATE.csv",
+    "filename": "ASCQR_OAS_CAHPS_STATE.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:21 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.456799Z",
+    "rows": 56,
+    "cols": 22
+  },
+  "qqw3-t4ie::https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1760630711/Complications_and_Deaths-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aba37eca11edcd4272afff9e6dc78bda_1760630711/Complications_and_Deaths-National.csv",
+    "filename": "Complications_and_Deaths-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:27 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.460154Z",
+    "rows": 20,
+    "cols": 10
+  },
+  "bs2r-24vh::https://data.cms.gov/provider-data/sites/default/files/resources/247bb4364e310313773d74ccb0fb3231_1760630712/Complications_and_Deaths-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/247bb4364e310313773d74ccb0fb3231_1760630712/Complications_and_Deaths-State.csv",
+    "filename": "Complications_and_Deaths-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:27 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.481295Z",
+    "rows": 1120,
+    "cols": 10
+  },
+  "99ue-w85f::https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1761948351/HCAHPS-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/08eefc5ab7c6cce7b3555fd79b0d8eec_1761948351/HCAHPS-National.csv",
+    "filename": "HCAHPS-National.csv",
+    "last_modified": "Fri, 31 Oct 2025 22:10:35 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:31.541385Z",
+    "rows": 72,
+    "cols": 7
+  },
+  "ynj2-r877::https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1761019506/Complications_and_Deaths-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6af7c44d77436e5a1caac3ce39a83fe9_1761019506/Complications_and_Deaths-Hospital.csv",
+    "filename": "Complications_and_Deaths-Hospital.csv",
+    "last_modified": "Tue, 21 Oct 2025 04:10:04 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.508918Z",
+    "rows": 95820,
+    "cols": 18
+  },
+  "y9us-9xdf::https://data.cms.gov/provider-data/sites/default/files/resources/f29bb7c812e242f6edfef0a4b7d0eaca_1760630713/Footnote_Crosswalk.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f29bb7c812e242f6edfef0a4b7d0eaca_1760630713/Footnote_Crosswalk.csv",
+    "filename": "Footnote_Crosswalk.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:27 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.525734Z",
+    "rows": 32,
+    "cols": 2
+  },
+  "xrgf-x36b::https://data.cms.gov/provider-data/sites/default/files/resources/1896b4292d6cbc089d0b0bb6d8e6ebe7_1720656688/FY2021_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1896b4292d6cbc089d0b0bb6d8e6ebe7_1720656688/FY2021_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+    "filename": "FY2021_Distribution_of_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+    "last_modified": "Thu, 11 Jul 2024 00:28:39 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.529515Z",
+    "rows": 13,
+    "cols": 2
+  },
+  "5gv4-jwyv::https://data.cms.gov/provider-data/sites/default/files/resources/794aef5e642b10af5e5b0502025c1ce0_1720656688/FY2021_Net_Change_in_Base_Op_DRG_Payment_Amt.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/794aef5e642b10af5e5b0502025c1ce0_1720656688/FY2021_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+    "filename": "FY2021_Net_Change_in_Base_Op_DRG_Payment_Amt.csv",
+    "last_modified": "Thu, 11 Jul 2024 00:28:40 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.532885Z",
+    "rows": 33,
+    "cols": 2
+  },
+  "84jm-wiui::https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1761948353/HCAHPS-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e4ca53701c73500a3188874f2bbd2854_1761948353/HCAHPS-State.csv",
+    "filename": "HCAHPS-State.csv",
+    "last_modified": "Fri, 31 Oct 2025 22:10:36 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.605286Z",
+    "rows": 4032,
+    "cols": 8
+  },
+  "u625-zae7::https://data.cms.gov/provider-data/sites/default/files/resources/4f65e943e47afa24ea45a22b4163bfa9_1720656689/FY2021_Percent_Change_in_Medicare_Payments.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/4f65e943e47afa24ea45a22b4163bfa9_1720656689/FY2021_Percent_Change_in_Medicare_Payments.csv",
+    "filename": "FY2021_Percent_Change_in_Medicare_Payments.csv",
+    "last_modified": "Thu, 11 Jul 2024 00:28:40 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.669606Z",
+    "rows": 23,
+    "cols": 2
+  },
+  "vtqa-m4zn::https://data.cms.gov/provider-data/sites/default/files/resources/cec1d2baf2535cf914795f3fdcbbcb0a_1720656689/FY2021_Value_Based_Incentive_Payment_Amount.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/cec1d2baf2535cf914795f3fdcbbcb0a_1720656689/FY2021_Value_Based_Incentive_Payment_Amount.csv",
+    "filename": "FY2021_Value_Based_Incentive_Payment_Amount.csv",
+    "last_modified": "Thu, 11 Jul 2024 00:28:41 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.767458Z",
+    "rows": 25,
+    "cols": 2
+  },
+  "k2ze-bqvw::https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1760630718/Healthcare_Associated_Infections-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/27986ce2f1193d3fcad7fa1bddc93c3b_1760630718/Healthcare_Associated_Infections-State.csv",
+    "filename": "Healthcare_Associated_Infections-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:58 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.784455Z",
+    "rows": 1008,
+    "cols": 7
+  },
+  "yd3s-jyhd::https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1760630718/Healthcare_Associated_Infections-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a87585b27c50c3899eec6a857958a5f0_1760630718/Healthcare_Associated_Infections-National.csv",
+    "filename": "Healthcare_Associated_Infections-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:58 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.788050Z",
+    "rows": 6,
+    "cols": 6
+  },
+  "s5pj-hua3::https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1760630720/OQR_OAS_CAHPS_NATIONAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/fdc286f2f60134775fa4b7f7b249b075_1760630720/OQR_OAS_CAHPS_NATIONAL.csv",
+    "filename": "OQR_OAS_CAHPS_NATIONAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:04 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.816946Z",
+    "rows": 15,
+    "cols": 7
+  },
+  "6pfg-whmx::https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1760630720/OQR_OAS_CAHPS_STATE.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5c995348b26c08179f1149d3b07dcb70_1760630720/OQR_OAS_CAHPS_STATE.csv",
+    "filename": "OQR_OAS_CAHPS_STATE.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:04 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:32.868459Z",
+    "rows": 840,
+    "cols": 8
+  },
+  "xubh-q36u::https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1760630721/Hospital_General_Information.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/893c372430d9d71a1c52737d01239d47_1760630721/Hospital_General_Information.csv",
+    "filename": "Hospital_General_Information.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:05 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.073465Z",
+    "rows": 5421,
+    "cols": 38
+  },
+  "z8ax-x9j1::https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1760630721/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/bc386a698d7a9b8d09bf37a73371a899_1760630721/PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv",
+    "filename": "PCH_Complications_Unplanned_Hospital_Visits_HOSPITAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:05 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.097771Z",
+    "rows": 44,
+    "cols": 18
+  },
+  "jfnd-nl7s::https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1760630722/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6a91b2a437ea47e61cd34c975dd54729_1760630722/PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv",
+    "filename": "PCH_Complications_Unplanned_Hospital_Visits_NATIONAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:05 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.100840Z",
+    "rows": 4,
+    "cols": 9
+  },
+  "yq43-i98g::https://data.cms.gov/provider-data/sites/default/files/resources/80b995af884889b0f424d8049bc69ac2_1753409110/FY_2025_HAC_Reduction_Program_Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/80b995af884889b0f424d8049bc69ac2_1753409110/FY_2025_HAC_Reduction_Program_Hospital.csv",
+    "filename": "FY_2025_HAC_Reduction_Program_Hospital.csv",
+    "last_modified": "Fri, 25 Jul 2025 02:10:07 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.168134Z",
+    "rows": 3082,
+    "cols": 36
+  },
+  "5hk7-b79m::https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1736791533/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/500f70bcb6c65433c00a96af0e0c0430_1736791533/HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv",
+    "filename": "HOSPITAL_QUARTERLY_MSPB_6_DECIMALS.csv",
+    "last_modified": "Mon, 13 Jan 2025 18:11:01 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.185731Z",
+    "rows": 3009,
+    "cols": 6
+  },
+  "9n3s-kdb3::https://data.cms.gov/provider-data/sites/default/files/resources/abfdea8be174fce5ecb4d69d84da99c4_1736791537/FY_2025_Hospital_Readmissions_Reduction_Program_Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/abfdea8be174fce5ecb4d69d84da99c4_1736791537/FY_2025_Hospital_Readmissions_Reduction_Program_Hospital.csv",
+    "filename": "FY_2025_Hospital_Readmissions_Reduction_Program_Hospital.csv",
+    "last_modified": "Mon, 13 Jan 2025 18:11:04 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.394865Z",
+    "rows": 18510,
+    "cols": 12
+  },
+  "iy27-wz37::https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1760630725/PCH_HCAHPS_HOSPITAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/155aff6db1e04cbbe1676ce459d71053_1760630725/PCH_HCAHPS_HOSPITAL.csv",
+    "filename": "PCH_HCAHPS_HOSPITAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:06 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.461312Z",
+    "rows": 1023,
+    "cols": 22
+  },
+  "qatj-nmws::https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1760630726/PCH_HCAHPS_STATE.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f1d65b1e3b562b932fd3827c7783ea35_1760630726/PCH_HCAHPS_STATE.csv",
+    "filename": "PCH_HCAHPS_STATE.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:07 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:33.498166Z",
+    "rows": 4032,
+    "cols": 7
+  },
+  "dgck-syfz::https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1760630715/HCAHPS-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78a50346fbe828ea0ce2837847af6a7c_1760630715/HCAHPS-Hospital.csv",
+    "filename": "HCAHPS-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:50 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:39.488779Z",
+    "rows": 445563,
+    "cols": 22
+  },
+  "k653-4ka8::https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1760630724/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d24fd9fa17ad5673de9cf6220c1c7a5a_1760630724/PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv",
+    "filename": "PCH_HEALTHCARE_ASSOCIATED_INFECTIONS_HOSPITAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:06 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:39.518557Z",
+    "rows": 308,
+    "cols": 14
+  },
+  "77hc-ibv8::https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1760630717/Healthcare_Associated_Infections-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/43825e12dc0c923df9ba5cbdf473c9d5_1760630717/Healthcare_Associated_Infections-Hospital.csv",
+    "filename": "Healthcare_Associated_Infections-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:10:58 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:41.037130Z",
+    "rows": 172476,
+    "cols": 15
+  },
+  "9g7e-btyt::https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1760630726/PCH_HCAHPS_NATIONAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/51dabafd670b6379256fc111bcbec8b4_1760630726/PCH_HCAHPS_NATIONAL.csv",
+    "filename": "PCH_HCAHPS_NATIONAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:07 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:41.048345Z",
+    "rows": 72,
+    "cols": 6
+  },
+  "yizn-abxn::https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1760630719/OQR_OAS_CAHPS_BY_HOSPITAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9189f27bb8ab7a4ff8919bdc682bf79a_1760630719/OQR_OAS_CAHPS_BY_HOSPITAL.csv",
+    "filename": "OQR_OAS_CAHPS_BY_HOSPITAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:03 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.303502Z",
+    "rows": 92540,
+    "cols": 20
+  },
+  "pudb-wetr::https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1737151507/hvbp_clinical_outcomes.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/f5c74a8e8a0f2017f6e13b6fc517ae4e_1737151507/hvbp_clinical_outcomes.csv",
+    "filename": "hvbp_clinical_outcomes.csv",
+    "last_modified": "Fri, 17 Jan 2025 22:10:09 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.392330Z",
+    "rows": 2489,
+    "cols": 50
+  },
+  "su9h-3pvj::https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1737151508/hvbp_efficiency_and_cost_reduction.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/46325dbbe6d2f654ecbb5046059c664e_1737151508/hvbp_efficiency_and_cost_reduction.csv",
+    "filename": "hvbp_efficiency_and_cost_reduction.csv",
+    "last_modified": "Fri, 17 Jan 2025 22:10:09 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.442172Z",
+    "rows": 2489,
+    "cols": 15
+  },
+  "avtz-f2ge::https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1737151509/hvbp_person_and_community_engagement.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ccc6534894a9bfe22b5f986260ed359e_1737151509/hvbp_person_and_community_engagement.csv",
+    "filename": "hvbp_person_and_community_engagement.csv",
+    "last_modified": "Fri, 17 Jan 2025 22:10:10 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.552258Z",
+    "rows": 2489,
+    "cols": 74
+  },
+  "ypbt-wvdk::https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1737151512/hvbp_tps.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5551d4839c1dd75e3f7fe1310a1e2369_1737151512/hvbp_tps.csv",
+    "filename": "hvbp_tps.csv",
+    "last_modified": "Fri, 17 Jan 2025 22:10:11 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.591990Z",
+    "rows": 2489,
+    "cols": 17
+  },
+  "dgmq-aat3::https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1737151511/hvbp_safety.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/33e26123c259ca779642b0d61b2e82f5_1737151511/hvbp_safety.csv",
+    "filename": "hvbp_safety.csv",
+    "last_modified": "Fri, 17 Jan 2025 22:10:11 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.674486Z",
+    "rows": 2489,
+    "cols": 51
+  },
+  "s5xg-sys6::https://data.cms.gov/provider-data/sites/default/files/resources/463e16600bec8c0aeb75ebfaef253ab7_1760630731/IPFQR_QualityMeasures_National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/463e16600bec8c0aeb75ebfaef253ab7_1760630731/IPFQR_QualityMeasures_National.csv",
+    "filename": "IPFQR_QualityMeasures_National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:08 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.681405Z",
+    "rows": 1,
+    "cols": 56
+  },
+  "q9vs-r7wp::https://data.cms.gov/provider-data/sites/default/files/resources/e56cdbea2d002358610ebdb957cb35de_1760630730/IPFQR_QualityMeasures_Facility.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e56cdbea2d002358610ebdb957cb35de_1760630730/IPFQR_QualityMeasures_Facility.csv",
+    "filename": "IPFQR_QualityMeasures_Facility.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:08 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.770321Z",
+    "rows": 1446,
+    "cols": 78
+  },
+  "4j6d-yzce::https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1760630732/Measure_Dates.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/633113381312e1fa86c8e0ba8b14ed0f_1760630732/Measure_Dates.csv",
+    "filename": "Measure_Dates.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:09 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.777405Z",
+    "rows": 168,
+    "cols": 6
+  },
+  "dc76-gh7x::https://data.cms.gov/provider-data/sites/default/files/resources/aaf5b6168e889e217580d86b5c443c6d_1760630731/IPFQR_QualityMeasures_State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/aaf5b6168e889e217580d86b5c443c6d_1760630731/IPFQR_QualityMeasures_State.csv",
+    "filename": "IPFQR_QualityMeasures_State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:08 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.785393Z",
+    "rows": 52,
+    "cols": 44
+  },
+  "3n5g-6b7f::https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1760630734/Medicare_Hospital_Spending_Per_Patient-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/ff15a8451b83ebc70b85a5c0e870a751_1760630734/Medicare_Hospital_Spending_Per_Patient-National.csv",
+    "filename": "Medicare_Hospital_Spending_Per_Patient-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:10 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.904383Z",
+    "rows": 1,
+    "cols": 8
+  },
+  "di9i-zzrc::https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1760630735/Outpatient_Imaging_Efficiency-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/78172a595e76dc064ea87884c5aea1f8_1760630735/Outpatient_Imaging_Efficiency-National.csv",
+    "filename": "Outpatient_Imaging_Efficiency-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:11 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.959940Z",
+    "rows": 4,
+    "cols": 6
+  },
+  "rs6n-9qwg::https://data.cms.gov/provider-data/sites/default/files/resources/b53c8e7d24557eb1e898557e4c7d7484_1760630734/Medicare_Hospital_Spending_Per_Patient-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b53c8e7d24557eb1e898557e4c7d7484_1760630734/Medicare_Hospital_Spending_Per_Patient-State.csv",
+    "filename": "Medicare_Hospital_Spending_Per_Patient-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:10 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.969634Z",
+    "rows": 56,
+    "cols": 7
+  },
+  "if5v-4x48::https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1760630736/Outpatient_Imaging_Efficiency-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/6fb7a772c39e34e630e7e97ec4887263_1760630736/Outpatient_Imaging_Efficiency-State.csv",
+    "filename": "Outpatient_Imaging_Efficiency-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:12 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:42.996907Z",
+    "rows": 224,
+    "cols": 7
+  },
+  "nrth-mfg3::https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1736791547/Medicare_Hospital_Spending_by_Claim.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/1f8cde9e222d5d49f88a894bcf7a8981_1736791547/Medicare_Hospital_Spending_by_Claim.csv",
+    "filename": "Medicare_Hospital_Spending_by_Claim.csv",
+    "last_modified": "Mon, 13 Jan 2025 18:11:10 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:43.488704Z",
+    "rows": 64658,
+    "cols": 13
+  },
+  "rrqw-56er::https://data.cms.gov/provider-data/sites/default/files/resources/69874ce604586980ac088283c1b35095_1760630733/Medicare_Hospital_Spending_Per_Patient-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/69874ce604586980ac088283c1b35095_1760630733/Medicare_Hospital_Spending_Per_Patient-Hospital.csv",
+    "filename": "Medicare_Hospital_Spending_Per_Patient-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:09 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:43.547064Z",
+    "rows": 4627,
+    "cols": 14
+  },
+  "isrn-hqyy::https://data.cms.gov/provider-data/sites/default/files/resources/b298b4a8c05addc75d1e9c9c9b2e4706_1760630737/Timely_and_Effective_Care-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b298b4a8c05addc75d1e9c9c9b2e4706_1760630737/Timely_and_Effective_Care-National.csv",
+    "filename": "Timely_and_Effective_Care-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:18 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:43.566473Z",
+    "rows": 45,
+    "cols": 8
+  },
+  "apyc-v239::https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1760630737/Timely_and_Effective_Care-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c4f74a440cc6ce4ed941fa3c9de2ab58_1760630737/Timely_and_Effective_Care-State.csv",
+    "filename": "Timely_and_Effective_Care-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:18 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:43.587076Z",
+    "rows": 1736,
+    "cols": 8
+  },
+  "wkfw-kthe::https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1760630735/Outpatient_Imaging_Efficiency-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d0134a9a89e59d49426cf5a2ad063b60_1760630735/Outpatient_Imaging_Efficiency-Hospital.csv",
+    "filename": "Outpatient_Imaging_Efficiency-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:11 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:43.805481Z",
+    "rows": 18508,
+    "cols": 14
+  },
+  "yv7e-xc69::https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1760630736/Timely_and_Effective_Care-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0437b5494ac61507ad90f2af6b8085a7_1760630736/Timely_and_Effective_Care-Hospital.csv",
+    "filename": "Timely_and_Effective_Care-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:17 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:45.222039Z",
+    "rows": 138182,
+    "cols": 16
+  },
+  "632h-zaca::https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1760630738/Unplanned_Hospital_Visits-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/30edc1d0417a34b58affcc2495a02b0a_1760630738/Unplanned_Hospital_Visits-Hospital.csv",
+    "filename": "Unplanned_Hospital_Visits-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:21 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.071642Z",
+    "rows": 67074,
+    "cols": 20
+  },
+  "cvcs-xecj::https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1760630739/Unplanned_Hospital_Visits-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/d30b0557f1d06bee1d5646d2eaede709_1760630739/Unplanned_Hospital_Visits-National.csv",
+    "filename": "Unplanned_Hospital_Visits-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:22 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.080678Z",
+    "rows": 14,
+    "cols": 14
+  },
+  "4gkm-5ypv::https://data.cms.gov/provider-data/sites/default/files/resources/73ce05bc6ecbb5def0e859818a906f7b_1760630740/Unplanned_Hospital_Visits-State.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/73ce05bc6ecbb5def0e859818a906f7b_1760630740/Unplanned_Hospital_Visits-State.csv",
+    "filename": "Unplanned_Hospital_Visits-State.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:22 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.091095Z",
+    "rows": 784,
+    "cols": 14
+  },
+  "azum-44iv::https://data.cms.gov/provider-data/sites/default/files/resources/56d80c65ed5f758f9578b2fb32779279_1757369111/Long-Term_Care_Hospital-General_Information_Sep2025.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/56d80c65ed5f758f9578b2fb32779279_1757369111/Long-Term_Care_Hospital-General_Information_Sep2025.csv",
+    "filename": "Long-Term_Care_Hospital-General_Information_Sep2025.csv",
+    "last_modified": "Mon, 08 Sep 2025 22:10:08 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.166228Z",
+    "rows": 324,
+    "cols": 13
+  },
+  "uyx4-5s7f::https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1760630741/Veterans_Health_Administration_Provider_Level_Data.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/9cea8696850b78e02559183bd6071fd6_1760630741/Veterans_Health_Administration_Provider_Level_Data.csv",
+    "filename": "Veterans_Health_Administration_Provider_Level_Data.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:23 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.237682Z",
+    "rows": 132,
+    "cols": 13
+  },
+  "bzsr-4my4::https://data.cms.gov/provider-data/sites/default/files/resources/37f43b2461ea5bc1cbb49212af7459f0_1764021940/Data_Updates_October_2025.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/37f43b2461ea5bc1cbb49212af7459f0_1764021940/Data_Updates_October_2025.csv",
+    "filename": "Data_Updates_October_2025.csv",
+    "last_modified": "Mon, 24 Nov 2025 22:10:53 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.253570Z",
+    "rows": 1005,
+    "cols": 4
+  },
+  "6qxe-iqz8::https://data.cms.gov/provider-data/sites/default/files/resources/0742f326b7a19b57bc01136b2cd8b7b6_1760630740/VA_IPF.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/0742f326b7a19b57bc01136b2cd8b7b6_1760630740/VA_IPF.csv",
+    "filename": "VA_IPF.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:22 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.267622Z",
+    "rows": 660,
+    "cols": 16
+  },
+  "ptds-r8im::https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1760630741/VA_TE.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/07084088a9de9e44c51bef291a4e163a_1760630741/VA_TE.csv",
+    "filename": "VA_TE.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:23 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.302568Z",
+    "rows": 1452,
+    "cols": 17
+  },
+  "fp6g-2gsn::https://data.cms.gov/provider-data/sites/default/files/resources/edd388967c10eb13add6af2f05991a26_1757369111/Long-Term_Care_Hospital-Provider_Data_Sep2025.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/edd388967c10eb13add6af2f05991a26_1757369111/Long-Term_Care_Hospital-Provider_Data_Sep2025.csv",
+    "filename": "Long-Term_Care_Hospital-Provider_Data_Sep2025.csv",
+    "last_modified": "Mon, 08 Sep 2025 22:10:09 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.548560Z",
+    "rows": 25272,
+    "cols": 16
+  },
+  "nrdb-3fcy::https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1761163541/Maternal_Health-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5a4754b088fdb10d2ae278ef215925a7_1761163541/Maternal_Health-Hospital.csv",
+    "filename": "Maternal_Health-Hospital.csv",
+    "last_modified": "Wed, 22 Oct 2025 20:10:14 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:46.729299Z",
+    "rows": 17973,
+    "cols": 15
+  },
+  "6uyb-waub::https://data.cms.gov/provider-data/sites/default/files/resources/a2cb46ce7cec9215015df60831946c5f_1761343561/Swing_Bed_SNF_data_Oct2025.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/a2cb46ce7cec9215015df60831946c5f_1761343561/Swing_Bed_SNF_data_Oct2025.csv",
+    "filename": "Swing_Bed_SNF_data_Oct2025.csv",
+    "last_modified": "Fri, 24 Oct 2025 22:10:59 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.128435Z",
+    "rows": 44118,
+    "cols": 16
+  },
+  "5zdx-ny2x::https://data.cms.gov/provider-data/sites/default/files/resources/8f55b0c0855b343ee8963a21dac7c1a9_1757369112/Long-Term_Care_Hospital-National_Data_Sep2025.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/8f55b0c0855b343ee8963a21dac7c1a9_1757369112/Long-Term_Care_Hospital-National_Data_Sep2025.csv",
+    "filename": "Long-Term_Care_Hospital-National_Data_Sep2025.csv",
+    "last_modified": "Mon, 08 Sep 2025 22:10:10 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.133504Z",
+    "rows": 27,
+    "cols": 7
+  },
+  "a0cb-cdab::https://data.cms.gov/provider-data/sites/default/files/resources/c4108689fb48c020be17efd2697fc7f6_1722902735/Hospitalist.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/c4108689fb48c020be17efd2697fc7f6_1722902735/Hospitalist.csv",
+    "filename": "Hospitalist.csv",
+    "last_modified": "Tue, 06 Aug 2024 00:10:59 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.399331Z",
+    "rows": 42966,
+    "cols": 15
+  },
+  "mxtu-43qs::https://data.cms.gov/provider-data/sites/default/files/resources/60ee1962356ca17e50e12f95d2871b46_1760630743/PATIENT_REPORTED_OUTCOMES_FACILITY.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/60ee1962356ca17e50e12f95d2871b46_1760630743/PATIENT_REPORTED_OUTCOMES_FACILITY.csv",
+    "filename": "PATIENT_REPORTED_OUTCOMES_FACILITY.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:25 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.476477Z",
+    "rows": 4627,
+    "cols": 15
+  },
+  "qoeg-w7ck::https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1760630744/PCH_Palliative_Care_HOSPITAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/2d420234bc6bcc963c6c374d91b0ed90_1760630744/PCH_Palliative_Care_HOSPITAL.csv",
+    "filename": "PCH_Palliative_Care_HOSPITAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:25 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.485321Z",
+    "rows": 44,
+    "cols": 15
+  },
+  "qigt-w5cx::https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1760630744/PCH_Palliative_Care_NATIONAL.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/b19666c7d9f040b0fffd9c7135a7d92d_1760630744/PCH_Palliative_Care_NATIONAL.csv",
+    "filename": "PCH_Palliative_Care_NATIONAL.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:26 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.603262Z",
+    "rows": 4,
+    "cols": 5
+  },
+  "f4ga-b9gx::https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1760630745/Promoting_Interoperability-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/5462b19a756c53c1becccf13787d9157_1760630745/Promoting_Interoperability-Hospital.csv",
+    "filename": "Promoting_Interoperability-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:26 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.695056Z",
+    "rows": 4627,
+    "cols": 12
+  },
+  "shr::https://data.cms.gov/provider-data/sites/default/files/resources/db017ef4d74292f154f0b5dc7f77a296_1734653117/SHR.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/db017ef4d74292f154f0b5dc7f77a296_1734653117/SHR.csv",
+    "filename": "SHR.csv",
+    "last_modified": "Fri, 20 Dec 2024 00:10:24 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.771140Z",
+    "rows": 7591,
+    "cols": 14
+  },
+  "hbf-map::https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1763697945/Birthing_Friendly_Hospitals_Geocoded.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/e7f75e0803a17e22c4e26acf2183e622_1763697945/Birthing_Friendly_Hospitals_Geocoded.csv",
+    "filename": "Birthing_Friendly_Hospitals_Geocoded.csv",
+    "last_modified": "Fri, 21 Nov 2025 04:10:32 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.791292Z",
+    "rows": 2264,
+    "cols": 7
+  },
+  "d2k3-k3ac::https://data.cms.gov/provider-data/sites/default/files/resources/3e7a7fe925204d9f476690ad30ffcb28_1760630745/REH_Timely_and_Effective_Care-National.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/3e7a7fe925204d9f476690ad30ffcb28_1760630745/REH_Timely_and_Effective_Care-National.csv",
+    "filename": "REH_Timely_and_Effective_Care-National.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:27 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.796747Z",
+    "rows": 8,
+    "cols": 8
+  },
+  "97xg-v3wv::https://data.cms.gov/provider-data/sites/default/files/resources/325633e3e81e17de313537518fdca092_1760630745/REH_Timely_and_Effective_Care-Hospital.csv": {
+    "url": "https://data.cms.gov/provider-data/sites/default/files/resources/325633e3e81e17de313537518fdca092_1760630745/REH_Timely_and_Effective_Care-Hospital.csv",
+    "filename": "REH_Timely_and_Effective_Care-Hospital.csv",
+    "last_modified": "Thu, 16 Oct 2025 16:11:27 GMT",
+    "etag": null,
+    "downloaded_at": "2025-11-29T17:08:47.805700Z",
+    "rows": 152,
+    "cols": 16
+  }
+}
